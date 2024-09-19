@@ -5,3 +5,7 @@ Answer: Having repositories for school and/or work.
 Q2: What field could data science be applied to? Give and Example and how it mi>
 
 Answer: Analytics field.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging is more safe because it keeps the history of the repository and merges the branches together and maintains commit history while rebasing rewrites history of a branch by applying its commits on top of the other branch. 
