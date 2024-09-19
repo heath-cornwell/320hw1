@@ -9,3 +9,7 @@ Answer: Analytics field.
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging is more safe because it keeps the history of the repository and merges the branches together and maintains commit history while rebasing rewrites history of a branch by applying its commits on top of the other branch. 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: My python coding skills and my knowledge of data science.
